@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## My name is Griffin
+## My name is Griffin Britt
 ## Welcome to my GitHub Profile!
 
 <!--
