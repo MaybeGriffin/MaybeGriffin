@@ -1,8 +1,5 @@
 ## Hi there, I'm Griffin 👋 
 ## Welcome to my GitHub Profile!
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MaybeGriffin&show_icons=true&theme=transparent&hide=stars,prs" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeGriffin&layout=compact" />
 <img align="left" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
