@@ -1,5 +1,5 @@
 ## Hey, my name is Griffin Britt 
-## Welcome to my GitHub Profile!
+## Here is a Few of the things I am well versed in
 <img align="left" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
