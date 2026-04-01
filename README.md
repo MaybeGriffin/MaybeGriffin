@@ -1,4 +1,4 @@
-## My name is James Griffin Britt 
+## My name is James Griffin Britt. I have a passion for the Lord, software, and bodybuilding.
 ## Here are some of the things I am well versed in (couldn't find every badge):
 <img align="left" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
