@@ -5,7 +5,7 @@
 
 <h3 style="margin: 1em 0 4px 0; padding: 0;">About Me</h3>
 <div style="margin: -4px 0 0 0; padding: 0; line-height: 1.5;">
-I'm Griffin Britt, a 25 year old software engineer, designer, marketer, founder, and veteran.<br>
+I'm Griffin Britt, a 25 year old <strong>software engineer, designer, marketer, founder, and veteran</strong>.<br>
 <br>
 I have a strong passion for studying the Bible, following Jesus Christ, software/hardware, fully natural bodybuilding, grilling, MMA, reading, personal development, improving my community, and spearfishing.<br>
 <br>
@@ -18,7 +18,7 @@ During my time in the Marine Corps my role was as a data systems administrator, 
 
 ---
 
-<h3 style="margin: 1em 0 4px 0; padding: 0;">The following are a few of the tools and services I consider myself more or less to be well versed in:</h3>
+<h3 style="margin: 1em 0 4px 0; padding: 0;">The following are a few of the tools and services I consider myself to be well versed in:</h3>
 <div style="margin: 0; padding: 0; font-size: 0; line-height: 0;">
   <img src="https://img.shields.io/badge/next%20js-231f20?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-231f20?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -41,7 +41,6 @@ During my time in the Marine Corps my role was as a data systems administrator, 
   <img src="https://img.shields.io/badge/Figma-231f20?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Tails%20-231f20?&style=for-the-badge&logo=tails&logoColor=white" />
   <img src="https://img.shields.io/badge/rabbitmq-231f20.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-231f20.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_Web_Services-231f20?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudflare-231f20?style=for-the-badge&logo=Cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/pnpm-231f20?style=for-the-badge&logo=pnpm&logoColor=white" />
