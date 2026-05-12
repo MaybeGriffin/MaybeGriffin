@@ -1,5 +1,5 @@
 ## Hello, I'm James Griffin Britt.
-**"Reject progressiveness; embrace tradition"** ~ Myself
+**"Slow is smooth, smooth is fast"** ~ Myself
 
 ---
 
