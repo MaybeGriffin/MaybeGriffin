@@ -18,7 +18,7 @@ During my time in the Marine Corps my role was as a data systems administrator, 
 
 ---
 
-<h3 style="margin: 1em 0 4px 0; padding: 0;">The following are a few of the tools and services I more or less consider myself to be well versed in:</h3>
+<h3 style="margin: 1em 0 4px 0; padding: 0;">The following are a few of the tools and services I consider myself more or less to be well versed in:</h3>
 <div style="margin: 0; padding: 0; font-size: 0; line-height: 0;">
   <img src="https://img.shields.io/badge/next%20js-231f20?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-231f20?style=for-the-badge&logo=vercel&logoColor=white" />
