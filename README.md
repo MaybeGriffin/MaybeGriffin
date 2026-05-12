@@ -53,10 +53,12 @@ During my time in the Marine Corps my role was as a data systems administrator, 
   <img src="https://img.shields.io/badge/mysql-231f20.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-231f20?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-231f20?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-231f20?style=for-the-badge&logo=Playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-231f20?style=for-the-badge&logo=stripe&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/drizzle-231f20?style=for-the-badge&logo=drizzle&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-231f20.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/node.js-231f20?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-231f20?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-231f20?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-231f20?style=for-the-badge&logo=Vitest&logoColor=white" />
 </div>
