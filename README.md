@@ -5,9 +5,9 @@
 
 <h3 style="margin: 1em 0 4px 0; padding: 0;">About Me</h3>
 <div style="margin: -4px 0 0 0; padding: 0; line-height: 1.5;">
-I'm Griffin Britt, a 25 year old <strong>software engineer, designer, marketer, founder, and veteran</strong>.<br>
+I'm Griffin Britt, a 25 year old <strong>software engineer, designer, marketer, founder,</strong> and <strong>veteran</strong>.<br>
 <br>
-I have a strong passion for studying the <strong>Bible</strong>, following <strong>Jesus Christ</strong>, <strong>software</strong>/hardware, fully natural <strong>bodybuilding</strong>, grilling, MMA, reading, personal development, improving my community, and spearfishing.<br>
+I have a strong passion for <strong>studying the Bible, following Jesus Christ</strong>, software/hardware, fully natural bodybuilding, grilling, MMA, reading, personal development, improving my community, and spearfishing.<br>
 <br>
 During my time in the Marine Corps my role was as a <strong>data systems administrator</strong>, before doing a lateral move into the <strong>infantry</strong> as a squad leader.<br>
 <br>
