@@ -12,7 +12,7 @@ I have a strong passion for studying the Bible, following Jesus Christ, software
 During my time in the Marine Corps my role was as a data systems administrator, before doing a lateral move into the infantry as a squad leader. 
 </div>
 
-**E-4 Mafia**
+**E-4 Mafia** 
 
 ---
 
