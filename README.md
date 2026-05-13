@@ -9,8 +9,6 @@ I'm Griffin Britt, a 25 year old <strong>software engineer, designer, marketer, 
 <br>
 I have a strong passion for <strong>studying the Bible, following Jesus Christ</strong>, software/hardware, fully natural bodybuilding, grilling, MMA, reading, personal development, improving my community, and spearfishing.<br>
 <br>
-During my time in the Marine Corps my role was as a <strong>data systems administrator</strong>, before doing a lateral move into the <strong>infantry</strong> as a squad leader.<br>
-<br>
 <strong>E-4 Mafia</strong>
 </div>
 
