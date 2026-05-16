@@ -5,14 +5,12 @@
 
 <h3 style="margin: 1em 0 4px 0; padding: 0;">About Me</h3>
 <div style="margin: -4px 0 0 0; padding: 0; line-height: 1.5;">
-I'm Griffin Britt, a 25 year old <strong>software engineer, designer, marketer, founder,</strong> and <strong>veteran</strong>.<br>
+I'm Griffin Britt, a 25 year old software engineer, designer, marketer, founder, and veteran.<br>
 <br>
-I have a strong passion for <strong>studying the Bible, following Jesus Christ</strong>, software/hardware, fully natural bodybuilding, grilling, MMA, reading, personal development, improving my community, and spearfishing.<br>
+I have a strong passion for studying the Bible, following Jesus Christ, software/hardware, fully natural bodybuilding, grilling, MMA, reading, personal development, improving my community, and spearfishing.<br>
 <br>
-<strong>E-4 Mafia</strong>
+During my time in the Marine Corps, I initially served as a data systems admin before committing a lateral move into the infantry as a squad leader. <strong>E-4 Mafia</strong>
 </div>
-
-
 
 ---
 
