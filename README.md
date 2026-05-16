@@ -9,8 +9,8 @@ I am a 25 year old software engineer, designer, marketer, founder, and veteran.<
 <br>
 I have a passion for studying the Bible/following Jesus Christ, software/hardware, natural bodybuilding, problem solving, automation, personal development, improving my community, mixed martial arts, grilling, and spearfishing.<br>
 <br>
-During my time in the Marine Corps, I initially served as a data systems admin before committing a lateral move into the infantry as a squad leader. <strong>E-4 Mafia</strong>.<br>
-After my time in the Marines, I worked at the AI avatar company, "Ratava" as one of two software engineers. I stayed until the development phase was complete, then left to launch my own company, "Den" while also pursuing other projects.<br>
+<strong>During my time in the Marine Corps</strong>, I initially served as a data systems admin before committing a lateral move into the infantry as a squad leader <strong>(E-4 Mafia)</strong>.<br>
+<strong>After my time in the Marines Corps</strong>, I worked at the AI avatar company, "Ratava" as one of two software engineers. I stayed until the development phase was complete, then left to launch my own company, "Den" while also pursuing other projects.<br>
 <br>
 While I can code by hand, I have increased my throughput tenfold through leveraging my agentic orchestration workflows.
 </div>
