@@ -9,7 +9,8 @@ I'm Griffin Britt, a 25 year old software engineer, designer, marketer, founder,
 <br>
 I have a strong passion for studying the Bible, following Jesus Christ, software/hardware, fully natural bodybuilding, grilling, MMA, reading, personal development, improving my community, and spearfishing.<br>
 <br>
-During my time in the Marine Corps, I initially served as a data systems admin before committing a lateral move into the infantry as a squad leader. <strong>E-4 Mafia</strong><br>
+During my time in the Marine Corps, I initially served as a data systems admin before committing a lateral move into the infantry as a squad leader. <strong>E-4 Mafia</strong>.<br>
+After my time in the Marines, I worked at the AI avatar company, "Ratava" as one of two software engineers. I stayed until the development phase was complete, then left to launch my own company, "Den" while also pursuing other projects.<br>
 <br>
 While I can code by hand, I have increased my throughput tenfold through leveraging my agentic orchestration workflows.
 </div>
