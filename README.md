@@ -9,8 +9,8 @@ I am a 25 year old software engineer, designer, marketer, founder, and veteran.<
 <br>
 I have a passion for studying the Bible/following Jesus Christ, software/hardware, natural bodybuilding, problem solving, automation, personal development, art, video games, improving my community, mixed martial arts, and spearfishing.<br>
 <br>
-During my time in the <strong>Marine Corps</strong>, I initially served as a data systems administrator before making a lateral move into the infantry as a squad leader (E-4 Mafia).<br>
-After the Marine Corps, I worked at <strong>Ratava</strong>, an AI avatar company, as one of two software engineers, building the application end to end. I stayed until launch, then left to start my own company, <strong>Den</strong>, a Christian social media app with an AI model I trained on the Bible, while also pursuing other goals.<br>
+During my time in the <strong>Marine Corps</strong>, I initially served as a data systems administrator before making a lateral move into the infantry as a squad leader <strong>(E-4 Mafia)</strong>.<br>
+After the Marine Corps, I worked at <strong>Ratava</strong>, an AI avatar company, as one of two software engineers, building the application end to end. I stayed until launch, then left to start my own company, <strong>Den</strong>, a Christian social media app with an AI model I trained on the Bible.<br>
 <br>
 While I can code by hand, I have increased my throughput tenfold through leveraging agentic orchestration.
 </div>
