@@ -1,5 +1,5 @@
 ## Hello, I'm James Griffin Britt.
-**"Slow is smooth, smooth is fast"** ~ Myself
+**"Slow is smooth, smooth is fast"**
 
 ---
 
